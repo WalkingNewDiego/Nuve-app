@@ -26,6 +26,6 @@ De antemano le agradezco por su comprension por la gravedad de mi situacion.
 
 2. **Clona el repositorio**:  
    ```bash
-   git clone [URL_DEL_REPOSITORIO]
+   git clone [https://github.com/WalkingNewDiego/Nuve-app.git]
 
 
