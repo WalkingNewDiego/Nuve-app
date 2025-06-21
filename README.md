@@ -18,7 +18,7 @@ Todo esto se vera reflejado en la base de datos la cual almacenara los datos imp
 - **Servidor local**: Apache (XAMPP).
   
 Quedo a su disposicion ante cualquier duda y lamento el retraso en la entrega.
-De antemano le agradezco su comprension por la gravedad de mi situacion y darme el tiempo para entregarlo profesor, Muchas gracias, Sinceramente es el mejor profesor que he tenido en muchos años.
+De antemano le agradezco su comprension por la gravedad de mi situacion y darme el tiempo para entregarlo profesor, muchas gracias.
 
 -- Instalación -- 
 1. **Requisitos**:  
