@@ -1,6 +1,6 @@
 # Nuve-app
 Este es un Prototipo (por temas de seguridad hacia la empresa) funcional de mi sistema de reservaciones de hotel, dentro de este sistema podra ver como funciona todo lo de un CRUD para registrarse, iniciar sesion, y hacer una reserva dentro de la empresa NUVE;
-Todo esto se vera reflejado en la base de datos la cual almacenara los datos importantes de los elementos antes mencionados, mostrando las vistas amigables, funcionales, eficientes y accesibles para la gran variedad de usuarios/clientes que esten dispuestos a realizar una reserva para la empresa
+Todo esto se vera reflejado en la base de datos la cual almacenara los datos importantes de los elementos antes mencionados, mostrando unas vistas amigables, funcionales, eficientes y accesibles para la gran variedad de usuarios/clientes que esten dispuestos a realizar una reserva para la empresa
 # 🏨 Sistema de Reservaciones de Hotel - NUVE  
 
 *Prototipo funcional desarrollado con PHP puro y Bootstrap para gestión de reservas (datos sensibles omitidos por seguridad).*  
