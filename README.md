@@ -15,7 +15,10 @@ Todo esto se vera reflejado en la base de datos la cual almacenara los datos imp
 - **Frontend**: HTML5, CSS3, Bootstrap 5, JavaScript.  
 - **Backend**: PHP vanilla (sin frameworks).  
 - **Base de datos**: MariaDB (gestión mediante XAMPP).  
-- **Servidor local**: Apache (XAMPP).  
+- **Servidor local**: Apache (XAMPP).
+  
+Quedo a su disposicion ante cualquier duda y lamento el retraso en la entrega.
+De antemano le agradezco por su comprension por la gravedad de mi situacion.
 
 -- Instalación -- 
 1. **Requisitos**:  
@@ -23,4 +26,6 @@ Todo esto se vera reflejado en la base de datos la cual almacenara los datos imp
 
 2. **Clona el repositorio**:  
    ```bash
-   git clone [URL_DEL_REPOSITORIO]  
+   git clone [URL_DEL_REPOSITORIO]
+
+
